@@ -158,14 +158,27 @@ footer {
   color: black;
 }
 
-.deplacement{
+.deplacement {
     grid-column: 2 / -1;
     display: grid;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 ul.b {
   list-style-type: square;
+}
+
+.nav1 {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav1 li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
 }
 
 
