@@ -135,7 +135,7 @@ footer {
 #customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
 }
 
 #customers td, #customers th {
@@ -148,7 +148,7 @@ footer {
 
 #customers tr:nth-child(odd){background-color: #e2e2e2;}
 
-#customers tr:hover {background-color: #EE1000;}
+#customers tr:hover {background-color: #AEAE00;}
 
 #customers th {
   padding-top: 12px;
