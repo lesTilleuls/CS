@@ -171,7 +171,7 @@ footer {
   }
 
   .description::after {
-    content: "74";
+    /*content: "74";*/
     font-size: 50vw;
     position: absolute;
     opacity: 0.03;

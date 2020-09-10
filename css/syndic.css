@@ -159,15 +159,18 @@ footer {
 }
 
 .deplacement{
-    grid-column: 2 / -1;
+    grid-column: 2 / -1;    
     display: grid;
-    margin-left: 100px;
+    margin-left: 10px;
 }
 
 ul.b {
   list-style-type: square;
 }
 
+#decoration{
+  text-decoration: underline;
+}
 
 @media (min-width: 800px) {
   body {
